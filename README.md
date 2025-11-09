@@ -54,4 +54,3 @@ batalha-naval-c/
 ├── README.md        # Documentação do projeto
 ├── imagens/         # (Opcional) Prints da execução
 └── docs/            # (Opcional) Relatórios ou explicações extras
-
